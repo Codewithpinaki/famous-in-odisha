@@ -1,0 +1,11 @@
+body{background-color:chartreuse;}
+#i1,#i2,#i3,#i4{height: 200px;
+width: 200px;}
+h1{text-align: center;}
+#i2{margin-left: 350px;
+}
+#i4{margin-left: 350px;}
+#i1{margin-left: 70px;}
+#i3{margin-left: 70px;}
+#p1{margin-left: 70px;}
+#p2{margin-left: 350px;}
